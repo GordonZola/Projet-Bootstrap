@@ -1,0 +1,240 @@
+@font-face {
+    font-family: "LatoBlack";
+    src: url(../font/Lato-Black.ttf); format("TrueType");
+}
+@font-face {
+    font-family: "LatoBold";
+    src: url(../font/Lato-Bold.ttf); format("TrueType");
+}
+@font-face {
+    font-family: "LatoLight";
+    src: url(../font/Lato-Light.ttf); format("TrueType");
+}
+@font-face {
+    font-family: "LatoRegular";
+    src: url(../font/Lato-Regular.ttf); format("TrueType");
+}
+
+ /* HEADER */
+
+header{
+    background: url(../img/header.jpg);
+    width: 100%;
+    padding-bottom: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    font-family: LatoBold;
+    color: white;
+    margin-left: 15px;
+}
+
+li{
+    font-family: LatoBlack;
+    color: white;
+}
+
+.nav{
+    margin-top: 50px;
+}
+
+hr{
+    color: white;
+}
+
+h1{
+    color: white;
+    font-family: LatoBold;
+    font-size: 65px;
+}
+
+.orange{
+    color: orange;
+}
+
+p{
+    color: white;
+    font-family: LatoRegular;
+}
+
+.headertext{
+    padding-top: 180px;
+}
+
+.btn-orange{
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    margin-top: 40px;
+    padding: 10px;
+    font-family: LatoBlack;
+}
+
+.btn-orange:hover{
+    background-color: white;
+}
+
+/* SECTION PRESENTATION */
+/* Partie Gauche */ 
+
+#presentation{
+    padding-bottom: 100px;
+}
+
+.partie1{
+    padding-top: 100px;
+}
+
+.guillemets{
+    padding-top: 55px;
+    position: absolute;
+}
+
+.black{
+    color: black;
+}
+
+.lorem1{
+    color: black;
+    font-family: LatoLight;
+    padding-left: 80px;
+    font-size: 25px;
+    padding-top: 50px;
+}
+
+.engras{
+    font-family: LatoBlack;
+    padding-top: 20px;
+}
+
+.btn-orange1{
+    border-radius: 20px;
+    background-color: orange;
+    color: white;
+    margin-top: 40px;
+    font-family: LatoBlack;
+}
+
+/* Partie Droite */
+
+.imgp1{
+    background-image: url(../img/p1.png);
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 80px;
+    font-family: LatoBold;
+    padding-top: 29%;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+/* SECTION NOUS C'EST LE GOUT */
+/* Partie Gauche */
+
+.partie2{
+    background: url(../img/p2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pargauchep2{
+    padding-top: 250px;
+}
+
+.pp2{
+    font-family: LatoBold;
+}
+
+.fa-facebook{
+    color: #3B5998;
+}
+
+.fa-twitter{
+    color: #1DA1F3;
+}
+
+.fa-instagram{
+    color: blueviolet;
+}
+
+.fa-twitch{
+    color: #5C16C5;
+}
+
+.fa-poo{
+    color: brown;
+}
+
+.fa-github{
+    color: black;
+}
+/* Partie Droite */
+
+h4{
+    color: orange;
+    font-family: LatoRegular;
+}
+
+.p2partiedroite{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+p{
+    font-family: LatoLight;
+}
+
+
+/* SECTION WHAT ELSE */
+/* Partie Gauche */
+
+.parp3{
+    padding-top: 100px;
+}
+
+.img1p3{
+    background-image: url(../img/p31.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 50px;
+    margin-left: -100px;
+    text-align: center;
+}
+
+.img2p3{
+    background-image: url(../img/p32.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 280px;
+    padding-bottom: 50px;
+    margin-left: 39px;
+    text-align: center;
+}
+
+.parp3droite{
+    padding-left: 90px;
+}
+
+.parp3d{
+    font-family: LatoLight;
+    font-size: 22px;
+    color: black;
+    padding-top: 30px;
+    line-height: 44px;
+}
+
+ol{
+    font-size: 20px;
+    color:black;
+    padding-top: 10px;
+}
+
+ul{
+    padding-top: 50px;
+}
+
+
