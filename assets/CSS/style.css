@@ -25,6 +25,10 @@ header{
     background-size: cover;
 }
 
+.imgheader{
+    height: 100px;
+}
+
 h2{
     font-family: LatoBold;
     color: white;
@@ -215,6 +219,8 @@ p{
     text-align: center;
 }
 
+/* Partie Droite */
+
 .parp3droite{
     padding-left: 90px;
 }
@@ -234,7 +240,31 @@ ol{
 }
 
 ul{
-    padding-top: 50px;
+    padding-top: 10px;
+}
+
+
+/* SECTION LEQUIPE QUI DECHIRE */
+/* Partie Gauche */
+
+#team{
+    background: url(../img/p40.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.partie4center{
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+
+.p4par{
+    font-family: LatoRegular;
+}
+
+.imp4{
+    margin-bottom: 100px;
 }
 
 
